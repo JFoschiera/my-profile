@@ -67,7 +67,7 @@ a{
 
 @media (max-width: 500px){
 	.container{
-		width: 430px;
+		width: 400px;
 	}
 	h1{
 		font-size: 200px;
